@@ -1,0 +1,6 @@
+{
+  "name": "Startup English Classes By Shivani",
+  "description": "Offline English Centre for Spoken English, Grammar, Vocabulary and Pronunciation classes by Miss Shivani.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
